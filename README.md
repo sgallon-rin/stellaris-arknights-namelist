@@ -2,7 +2,7 @@
 
 ## About
 
-![arknights_namelist](mod/arknights_name_list/arknights_namelist.png)
+![arknights_namelist](mod/arknights_namelist/thumbnail.png)
 
 自制 群星明日方舟名称包mod
 
