@@ -1,0 +1,226 @@
+### Arknights Terra Namelist for Stellaris
+### Created by Sgallon
+ARK = {
+	randomized = no
+    ship_names = {
+		generic = {
+			Collapse "Combat Medicine" Protection "Directed Aim" Pursuit "Precise Strike" Brawl Vanguard Corruption Assault "Originium Arts" Infection "AoE Attacks" Hunting Nearl "Combat Skills" Dilemma "Blockade Running" "Isolated Island" Sprawl "Running Wild" Omen Paralysis Obstructions Catastrophe "Indirect Protection" Tyrant Resolve "Squad Defense" Rout Remnants "The Forgotten" "Pyrrhic Victory" "Tactical Blockage" "To Lungmen" Slow "War of Words" Blockade "Presumption of Innocence" Casters "Penguin Logistics" Caster "Proactive Deployment" "Falling Objects" "Hold on Tight" "Terrain Attack" "A Matter of Public Health" Trap "No Promises" "Cubiculum Obscurum" Suffocation "Beyond Cure" Meeting Memory Convolution "Strategic Redeployment" Lurking Crack Call Decision Roar Recon Dusk Consolation "A Walk in the Rain" "Artificial Cold" Cluster "Nerves of Steel" Bureaucracy Ignorance Myriapoda "Mutual Benefits" "Acute Stress Disorder" "Bad to the Bone" Rage "Extinguished Flames" "Cycle of Enmity" Inexpressible Entrenched "Courage and Mortality" "Nobody’s Home" "Unending War" "Surprise Attack" "Biting Cold" "In Life and in Death" "Intimate Knowledge" "The Devil" Panic "The Dark Before Dawn" "Decisive Counterattack" Deadlock Misunderstandings "Lost at Once" "Festering Scars" "Who to Kill?" "Leave it Behind" "Broken Strings" "It Fell From the Sky!" "Harsh Environment" "Different Perspective" "Bells of Liberation" Condensation "Times Like These" "Snow Upon the Tundra" "No Light Without Fire" "Frost Upon the Tundra" Nostalgia Hoarfrost "Black Rabbit,White Rabbit" "Winter's End" "Only You Know"
+		}
+		
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+
+		battleship = {
+		}
+
+		titan = {
+			"Evil Time" "Separated Hearts" "Stinging Shock" "Burning Run" "Necessary Solutions" "Partial Necrosis" "The Birth Of Tragedy" "Code of Brawl" "Operational Intelligence" "Heart of Surging Flame" "Grani and the Knights' Treasure"
+		}
+
+		colossus = {
+		}
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+		
+	}
+
+	fleet_names = {
+		random_names = {
+			"Operation Inferno" "Operation Cocytus" "Operation Barrenland" "Operation Pyrite" "Operation Blade"
+		}
+		sequential_name = "Operation Fleet %C%"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Ground Shield"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% War Guild"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% War Peons"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Fighting Clones"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Robotic Lancers"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Robotic Protectors"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Warlock Company"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Death Flock"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Star Knights"
+		}
+
+		occupation_army = {
+			sequential_name = "%O% Occupation Shield"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%O% Robotic Occupiers"
+		}
+
+		primitive_army = {
+			sequential_name = "Primitive Army %C%"
+		}
+		industrial_army = {
+			sequential_name = "Industrial Army %C%"
+		}
+		postatomic_army = {
+			sequential_name = "Post-Atomic Army %C%"
+		}
+	}
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Terra Ursus Chernobog Kazimierz Laterano Victoria Londinium Leithanien Wolumonde Kjerag "Snowy Border" Karlan Siracusa Yen Lungmen Higashi Bolívar "Rim Billiton" Columbia Sargon Kazdel Sami Minos Vouivre Iberia Aegir Siesta "Rhodes Island" Blacksteel Rhine Glasgow Azazel Raythean
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				
+			}
+		}
+		
+		pc_gaia = {
+			names = {
+				
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+				
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+				
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+				
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+
+		names1 = {
+			weight = 40
+			first_names_male = {
+				Thorns Jaye Chiave Ayerscarpe Leonhardt Elysium Thermal-EX Phantom Sesa Aak Hung Broca Bison Ethan Executor Flamebringer Hellagur Greyy Spot Midnight SilverAsh Matterhorn Courier Steward Ansel Adnachiel 12F Rangers Noir-Corne Castle-3 D.D.D. ACE Mephisto Faust Wei-Yenwu Skullshatterer Ah-Faat Guard Koshchei Big-Bob Cronin Herman Emperor Scout Dürrenmatt Capone Rat-King Gambino Uncle-Tung Yith Eurill
+			}
+			first_names_female = {
+				Eunectes Flint Tomimi Aciddrop Andreana Beeswax Scene Suzuran Folinic Click Rosa Absinthe Podenco Tsukinogi Asbestos W Weedy Shamare Sideroca Cutter Conviction Bagpipe Bibeak Utage Purestream Ceobe Leizi Nian Snowsant Blaze GreyThroat Ambriel Reed Mostima Waai-Fu May Breeze Magallan Vermeil Dur-nar Astesia Myrtle Schwarz Glaucus Ceylon Sussurro Ch'en Swire Popukar Skadi Grani Nightmare Beehunter Catapult Savage Saria Hoshiguma Nightingale Shining Angelina Eyjafjalla Ifrit Siege Exusiai FEater Manticore Sora Istina Pramanix Cliffheart Firewatch Provence Vulcan Croissant Liskarm Projekt-Red Nearl Warfarin Silence Mayer Skyfire Amiya Meteorite Platinum Blue-Poison Specter Lappland Indra Franka Texas Zima Ptilopsis Shaw Earthspirit Deepcolor Gummy Cuora Perfumer Gavial Myrrh Rope Gravel Mousse Estelle Frostleaf Matoimaru Dobermann Vigna Scavenger ShiraYuki Meteor Jessica Gitano Haze Orchid Hibiscus Lava Kroos Beagle Cardigan Melantha Plume Vanilla Fang Durin Yato Lancet-2 CrownSlayer Talulah Kal'tsit Misha FrostNova Fumizuki Rosmontis Lin-Yuhsia Carol Alty Aya Muelsyse Simone Closure Heavyrain Suffering
+			}
+			second_names = {
+				Lung Liberi Lupo Oni Archosauria Anaty Sankta Savra Sarkaz Vampire Wendigo Feline Vouivre Draco Rebbah Vulpo Durin Zalak Manticore Kuranta Anura Elafia Cautus Caprinae Petram Itra Perro Forte Ursus Chimera Aslan Aegir
+			}
+			regnal_first_names_male = {
+				Thorns Jaye Chiave Ayerscarpe Leonhardt Elysium Thermal-EX Phantom Sesa Aak Hung Broca Bison Ethan Executor Flamebringer Hellagur Greyy Spot Midnight SilverAsh Matterhorn Courier Steward Ansel Adnachiel 12F Rangers Noir-Corne Castle-3 D.D.D. ACE Mephisto Faust Wei-Yenwu Skullshatterer Ah-Faat Guard Koshchei Big-Bob Cronin Herman Emperor Scout Dürrenmatt Capone Rat-King Gambino Uncle-Tung Yith Eurill
+			}
+			regnal_first_names_female = {
+				Eunectes Flint Tomimi Aciddrop Andreana Beeswax Scene Suzuran Folinic Click Rosa Absinthe Podenco Tsukinogi Asbestos W Weedy Shamare Sideroca Cutter Conviction Bagpipe Bibeak Utage Purestream Ceobe Leizi Nian Snowsant Blaze GreyThroat Ambriel Reed Mostima Waai-Fu May Breeze Magallan Vermeil Dur-nar Astesia Myrtle Schwarz Glaucus Ceylon Sussurro Ch'en Swire Popukar Skadi Grani Nightmare Beehunter Catapult Savage Saria Hoshiguma Nightingale Shining Angelina Eyjafjalla Ifrit Siege Exusiai FEater Manticore Sora Istina Pramanix Cliffheart Firewatch Provence Vulcan Croissant Liskarm Projekt-Red Nearl Warfarin Silence Mayer Skyfire Amiya Meteorite Platinum Blue-Poison Specter Lappland Indra Franka Texas Zima Ptilopsis Shaw Earthspirit Deepcolor Gummy Cuora Perfumer Gavial Myrrh Rope Gravel Mousse Estelle Frostleaf Matoimaru Dobermann Vigna Scavenger ShiraYuki Meteor Jessica Gitano Haze Orchid Hibiscus Lava Kroos Beagle Cardigan Melantha Plume Vanilla Fang Durin Yato Lancet-2 CrownSlayer Talulah Kal'tsit Misha FrostNova Fumizuki Rosmontis Lin-Yuhsia Carol Alty Aya Muelsyse Simone Closure Heavyrain Suffering
+			}
+			regnal_second_names = {
+				Lung Liberi Lupo Oni Archosauria Anaty Sankta Savra Sarkaz Vampire Wendigo Feline Vouivre Draco Rebbah Vulpo Durin Zalak Manticore Kuranta Anura Elafia Cautus Caprinae Petram Itra Perro Forte Ursus Chimera Aslan Aegir
+			}
+		}
+		
+	}
+}
