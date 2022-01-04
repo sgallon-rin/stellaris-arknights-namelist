@@ -1,4 +1,4 @@
-version="1.1.0"
+version="1.2.0"
 tags={
 	"Species"
 	"Name Lists"
@@ -7,5 +7,5 @@ tags={
 }
 name="Arknights name list | 明日方舟名称包"
 picture="thumbnail.png"
-supported_version="3.0.*"
+supported_version="3.2.*"
 remote_file_id="2217999914"

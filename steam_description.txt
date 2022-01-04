@@ -19,23 +19,32 @@ Supports Simplified Chinese and English
 - 领袖名 -- 明日方舟中的干员代号
 - 领袖姓氏 -- 明日方舟中的种族 
 - 舰船名 -- 明日方舟中的关卡名
-- 舰队名 -- 明日方舟中的行动名
+- 舰队名 -- 明日方舟中的行动名（危机合约）
 
 Description:
 - Colonies -- Countries and cities in Arknights
 - Names of leaders -- Codenames in Arknights
 - Surnames of leaders -- Species in Arknights
 - Ship names -- Level names in Arknights
-- Fleet names -- Operations in Arknights
+- Fleet names -- Operations in Arknights (Contingency Contracts)
 
 建议搭配明日方舟种族包食用 / Better with Arknights species mods
+
+*只是一个简单的名称包，旧版mod应该可以适用于新版游戏。
+*This mod only includes namelists. If the game has been updated, this mod should still work fine.
+
+*因为已经弃坑了舟游，以后的更新中可能只会包含干员代号，种族和危机合约。
+*As I no longer play Arknights, following updates may only contain codenames, species, and contingency contracts.
 
 [hr][/hr]
 
 [b]Updates[/b]
 
-[i]2021.07.22[/i]
+[i]2022.01.04 ver 1.2.0[/i]
+Updated names till "Gnosis"; updated fleet names till "Operation Pinesoot"; corrected gender of "Mudrock".
+
+[i]2021.07.22 ver 1.1.0[/i]
 Fixed bug in localisation; added cover.
 
-[i]2020.09.03[/i]
+[i]2020.09.03 ver 1.0.0[/i]
 First upload to Steam.
