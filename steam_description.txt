@@ -40,6 +40,9 @@ Description:
 
 [b]Updates[/b]
 
+[i]2022.12.03 ver 1.2.1[/i]
+Updated names till "Penance"; updated fleet names till "Operation Fake Waves".
+
 [i]2022.01.04 ver 1.2.0[/i]
 Updated names till "Gnosis"; updated fleet names till "Operation Pinesoot"; corrected gender of "Mudrock".
 
