@@ -45,7 +45,7 @@ Description:
 
 ## Updates
 
-### 2022.01.04 ver 1.2.1
+### 2022.12.03 ver 1.2.1
 Updated names till "Penance";
 updated fleet names till "Operation Fake Waves".
 
