@@ -1,6 +1,6 @@
 ### Arknights Terra Namelist for Stellaris
 ### Created by Sgallon
- ARK = {
+ ARK_SC = {
  	randomized = no
  	language = "l_simp_chinese"
 	ship_names = {
@@ -68,65 +68,65 @@
 		random_names = {
 			炼狱行动舰队 冰狱行动舰队 星火行动舰队 荒芜行动舰队 黄铁行动舰队 利刃行动舰队 燃灰行动舰队 铅封行动舰队 光谱行动舰队 蛮鳞行动舰队 松烟行动舰队 寻昼行动舰队 渊默行动舰队 尘环行动舰队 赝波行动舰队
 		}
-		sequential_name = "泰拉星际舰队 %C%"
+		sequential_name = "$ORD$泰拉星际舰队"
 	}
 	
 	army_names = {
 		generic = { 
-			sequential_name = "军团 %R%"
+			sequential_name = "$ORD$军团"
 		}
 		defense_army = {
-			sequential_name = "近卫军团 %C%"
+			sequential_name = "$ORD$近卫军团"
 		}
 
 		assault_army = {
-			sequential_name = "先锋军团 %R%"
+			sequential_name = "$ORD$先锋军团"
 		}
 		
 		slave_army = {
-			sequential_name = "辅助军团 %R%"
+			sequential_name = "$ORD$辅助军团"
 		}
 		
 		clone_army = {
-			sequential_name = "克隆军团 %R%"
+			sequential_name = "$ORD$克隆军团"
 		}
 		
 		robotic_army = {
-			sequential_name = "机械军团 %R%"
+			sequential_name = "$ORD$机械军团"
 		}
 
 		robotic_defense_army = {
-			sequential_name = "机械近卫军团 %R%"
+			sequential_name = "$ORD$机械近卫军团"
 		}
 		
 		psionic_army = { 
-			sequential_name = "术士军团 %R%"
+			sequential_name = "$ORD$术士军团"
 		}
 		
 		xenomorph_army = {
-			sequential_name = "特种军团 %R%"
+			sequential_name = "$ORD$特种军团"
 		}
 		
 		gene_warrior_army = {
-			sequential_name = "重装军团 %R%"
+			sequential_name = "$ORD$重装军团"
 		}
 
 		occupation_army = {
-			sequential_name = "占领军团 %R%"
+			sequential_name = "$ORD$占领军团"
 		}
 
 		robotic_occupation_army = {
-			sequential_name = "机械占领军团 %R%"
+			sequential_name = "$ORD$机械占领军团"
 		}
 
 		primitive_army = {
-			sequential_name = "原始军队 %C%"
+			sequential_name = "$ORD$原始军队"
 		}
 		industrial_army = {
-			sequential_name = "工业军队 %C%"
+			sequential_name = "$ORD$工业军队"
 		}
 		postatomic_army = {
-			sequential_name = "后原子军 %C%"
+			sequential_name = "$ORD$后原子军"
 		}
 	}
 

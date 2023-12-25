@@ -67,62 +67,62 @@ ARK = {
 		random_names = {
 			"Operation Inferno" "Operation Cocytus" "Operation Barrenland" "Operation Pyrite" "Operation Blade" "Operation Cinder" "Operation Lead Seal" "Operation Spectrum" "Operation Wild Scales" "Operation Pine Soot" "Operation Dawnseeker" "Operation Deepness" "Operation Ashring" "Operation Fake Waves"
 		}
-		sequential_name = "Operation Fleet %C%"
+		sequential_name = "$ORD$ Operation Fleet"
 	}
 	
 	army_names = {
 		defense_army = {
-			sequential_name = "%O% Ground Shield"
+			sequential_name = "$ORD$ Ground Shield"
 		}
 			
 		assault_army = {
-			sequential_name = "%O% War Guild"
+			sequential_name = "$ORD$ War Guild"
 		}
 		
 		slave_army = {
-			sequential_name = "%O% War Peons"
+			sequential_name = "$ORD$ War Peons"
 		}
 		
 		clone_army = { 
-			sequential_name = "%O% Fighting Clones"
+			sequential_name = "$ORD$ Fighting Clones"
 		}
 		
 		robotic_army = {
-			sequential_name = "%O% Robotic Lancers"
+			sequential_name = "$ORD$ Robotic Lancers"
 		}
 
 		robotic_defense_army = {
-			sequential_name = "%O% Robotic Protectors"
+			sequential_name = "$ORD$ Robotic Protectors"
 		}
 		
 		psionic_army = { 
-			sequential_name = "%O% Warlock Company"
+			sequential_name = "$ORD$ Warlock Company"
 		}
 		
 		xenomorph_army = {
-			sequential_name = "%O% Death Flock"
+			sequential_name = "$ORD$ Death Flock"
 		}
 		
 		gene_warrior_army = {
-			sequential_name = "%O% Star Knights"
+			sequential_name = "$ORD$ Star Knights"
 		}
 
 		occupation_army = {
-			sequential_name = "%O% Occupation Shield"
+			sequential_name = "$ORD$ Occupation Shield"
 		}
 
 		robotic_occupation_army = {
-			sequential_name = "%O% Robotic Occupiers"
+			sequential_name = "$ORD$ Robotic Occupiers"
 		}
 
 		primitive_army = {
-			sequential_name = "Primitive Army %C%"
+			sequential_name = "$ORD$ Primitive Army"
 		}
 		industrial_army = {
-			sequential_name = "Industrial Army %C%"
+			sequential_name = "$ORD$ Industrial Army"
 		}
 		postatomic_army = {
-			sequential_name = "Post-Atomic Army %C%"
+			sequential_name = "$ORD$ Post-Atomic Army"
 		}
 	}
 
